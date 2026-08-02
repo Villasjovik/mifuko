@@ -5,3 +5,4 @@ source-material/
 *-og-gen.mjs
 _preview-server.mjs
 gpt-input/
+.assets-lock.json
